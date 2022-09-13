@@ -1,6 +1,4 @@
-# my-personal-repository
 
-### **hello** :wave:
 <!--
 - :books: onboarding since Spetember 6
 - :toolbox: is growing!
